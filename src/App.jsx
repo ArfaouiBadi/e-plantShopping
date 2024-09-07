@@ -23,7 +23,7 @@ function App() {
           <p>Where Green Meets Serenity</p>
          
           <button className="get-started-button" onClick={handleGetStartedClick}>
-            Get Started
+            Get Startedd
           </button>
          </div>
           <div className="aboutus_container">
